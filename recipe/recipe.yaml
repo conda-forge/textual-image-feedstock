@@ -1,5 +1,5 @@
 context:
-  version: "0.9.0"
+  version: "0.10.0"
 
 package:
   name: textual-image
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/t/textual-image/textual_image-${{ version }}.tar.gz
-    sha256: de89cf1a8c1cb33b4360e44aeb070c0a8baff4c241f4c1dc49adcab7822c5e18
+    sha256: 8568883ab297f8d9d80452d842bd0fa2048d1f1b3ec91e34472264485a97290c
 
 build:
   number: 0
