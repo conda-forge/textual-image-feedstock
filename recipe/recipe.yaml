@@ -1,5 +1,5 @@
 context:
-  version: "0.13.1"
+  version: "0.13.2"
   python_min: "3.12"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/t/textual-image/textual_image-${{ version }}.tar.gz
-    sha256: 12e4db28474afd7217ee40f931a9d09af4535f02e55831bb7153cf603fffd520
+    sha256: 8ca0cee2bfcd7734de5b16a1936da226b77b745e28830d9cf2bc202cb70e43ee
 
 build:
   number: 0
