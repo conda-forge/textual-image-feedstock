@@ -35,7 +35,7 @@ tests:
 about:
   homepage: https://github.com/lnqs/textual-image
   summary: Render images via Kitty's Terminal Graphics Protocol with Rich and Textual
-  license: MIT
+  license: LGPL-3.0-only
   license_file: LICENSE.txt
 
 extra:
